@@ -1,12 +1,18 @@
 **Plugin Name**
 
-Contributors: ryuheixys, thomasmery
-Tags: wpml,wp-rest-api,json-api,multilanguage
-Requires at least: WP 4.4
-Tested up to: WP 4.5.3
-Stable tag: 0.1
-License: GPLv2 or later
-License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Contributors: ryuheixys, thomasmery 
+
+Tags: wpml,wp-rest-api,json-api,multilanguage 
+
+Requires at least: WP 4.4 
+
+Tested up to: WP 4.5.3 
+
+Stable tag: 0.1 
+
+License: GPLv2 or later 
+
+License URI: http://www.gnu.org/licenses/gpl-2.0.html 
 
 Allows you to request a language with your WP-API and WPML site.
 
